@@ -13,7 +13,7 @@ export DESKTOP=/usr/share/applications/org.nomacs.ImageLounge.desktop
 export DEPLOY_PIPEWIRE=1
 
 # Deploy dependencies
-quick-sharun /usr/bin/nomacs /usr/lib/*nomacs*
+quick-sharun /usr/bin/nomacs /usr/lib/*nomacs* /usr/share/nomacs
 
 # Additional changes can be done in between here
 
